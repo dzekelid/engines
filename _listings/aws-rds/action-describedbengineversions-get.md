@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS RDS API
+  title: Amazon RDS API Describe D B Engine Versions
   version: 1.0.0
+  description: Returns a list of the available DB engines.
 schemes:
 - http
 produces:
